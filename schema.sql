@@ -13,6 +13,7 @@ CREATE TABLE animals (
     PRIMARY KEY (id)
 );
 
+
  Create a new table called owners 
 CREATE TABLE owners(
 	id INT GENERATED ALWAYS AS IDENTITY,
@@ -38,3 +39,6 @@ ADD COLUMN species_id INT REFERENCES species (id);
 
 ALTER TABLE animals
 ADD COLUMN owner_id INT REFERENCES owners (id);
+=======
+ALTER TABLE animals ADD COLUMN species VARCHAR(255);
+
