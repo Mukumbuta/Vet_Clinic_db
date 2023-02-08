@@ -36,7 +36,7 @@
 
 # 📖 [CMS_Bookstore] <a name="about-project"></a>
 
-**[Vet Clinic Database]** is a data management database for a vet clinic
+**[Vet Clinic Database]** is a relational database to create the initial data structure for a vet clinic. A table was created to store animals' information, insert some data into it, and query it.
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -123,6 +123,12 @@ In order to run this project you need:
 - GitHub: [@Mukumbuta](https://github.com/Mukumbuta)
 - Twitter: [@Mukumbuta8](https://twitter.com/Mukumbuta8)
 - LinkedIn: [Mukumbuta](https://linkedin.com/in/mukumbuta)
+
+👤 **Riyana Abdi**
+
+- GitHub: [@githubhandle](https://github.com/ibtisam34)
+- Twitter: [@twitterhandle](https://twitter.com/Queenjin2)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/falis-abdikani/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
