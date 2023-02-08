@@ -1,4 +1,5 @@
 # Vet Clinic Database
+
 <a name="readme-top"></a>
 
 <div align="center">
@@ -9,7 +10,6 @@
   <h3><b>Microverse README Template</b></h3>
 
 </div>
-
 
 # 📗 Table of Contents
 
@@ -33,11 +33,9 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-
 # 📖 [CMS_Bookstore] <a name="about-project"></a>
 
 **[Vet Clinic Database]** is a relational database to create the initial data structure for a vet clinic. A table was created to store animals' information, insert some data into it, and query it.
-
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -92,7 +90,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
@@ -101,20 +98,17 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-
 ### Setup
 
-- Install postgreSQL on your machine 
+- Install postgreSQL on your machine
 - This comes with the psql shell (a command line interface );
 - Open the psql shell
-- Run the command ```create database vet_clinic ``` which will create the vet_clinic database
-- Navigate to the database using  ```\c vet_clinic ```
-- Create tables with the command  ``` create table table_name ```
+- Run the command `create database vet_clinic ` which will create the vet_clinic database
+- Navigate to the database using `\c vet_clinic `
+- Create tables with the command `create table table_name`
 - Have fun querying your databse
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -132,14 +126,12 @@ In order to run this project you need:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Add more data]**
 - [ ] **[Diferent preparation methods]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -149,21 +141,18 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project and you find it helpful, please give this project a star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/Mukumbuta/Vet_Clinic_db/blob/Create_db_from_ER_diagram/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
